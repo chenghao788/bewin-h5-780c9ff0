@@ -1,0 +1,1 @@
+var e=`/bewin-h5-780c9ff0/f8f88bb3f01686b9f08de3ec6b59c494.jpg`,t=`/bewin-h5-780c9ff0/boy-avatar.jpg`;export{e as n,t};
